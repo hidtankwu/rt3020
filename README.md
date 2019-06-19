@@ -101,4 +101,4 @@ INIT_APP_EXPORT(rt3020_port);
 
 维护人:
 
-- [Zhou Dinghua](https://github.com/baozi119) 
+- [Tank Wu](https://github.com/hidtankwu) 
